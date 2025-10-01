@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F15C60CB-8381-455E-B893-44C0A8657CD1}|Perfect Gas 2D Simulation.vcxproj|D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\main.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F15C60CB-8381-455E-B893-44C0A8657CD1}|Perfect Gas 2D Simulation.vcxproj|solutionrelative:main.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15C60CB-8381-455E-B893-44C0A8657CD1}|Perfect Gas 2D Simulation.vcxproj|D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F15C60CB-8381-455E-B893-44C0A8657CD1}|Perfect Gas 2D Simulation.vcxproj|solutionrelative:World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15C60CB-8381-455E-B893-44C0A8657CD1}|Perfect Gas 2D Simulation.vcxproj|D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\Physics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F15C60CB-8381-455E-B893-44C0A8657CD1}|Perfect Gas 2D Simulation.vcxproj|solutionrelative:Physics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15C60CB-8381-455E-B893-44C0A8657CD1}|Perfect Gas 2D Simulation.vcxproj|D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F15C60CB-8381-455E-B893-44C0A8657CD1}|Perfect Gas 2D Simulation.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15C60CB-8381-455E-B893-44C0A8657CD1}|Perfect Gas 2D Simulation.vcxproj|D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\Gas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F15C60CB-8381-455E-B893-44C0A8657CD1}|Perfect Gas 2D Simulation.vcxproj|solutionrelative:Gas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15C60CB-8381-455E-B893-44C0A8657CD1}|Perfect Gas 2D Simulation.vcxproj|D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\Physics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F15C60CB-8381-455E-B893-44C0A8657CD1}|Perfect Gas 2D Simulation.vcxproj|solutionrelative:Physics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15C60CB-8381-455E-B893-44C0A8657CD1}|Perfect Gas 2D Simulation.vcxproj|D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\EventArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F15C60CB-8381-455E-B893-44C0A8657CD1}|Perfect Gas 2D Simulation.vcxproj|solutionrelative:EventArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15C60CB-8381-455E-B893-44C0A8657CD1}|Perfect Gas 2D Simulation.vcxproj|D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\EventArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F15C60CB-8381-455E-B893-44C0A8657CD1}|Perfect Gas 2D Simulation.vcxproj|solutionrelative:EventArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15C60CB-8381-455E-B893-44C0A8657CD1}|Perfect Gas 2D Simulation.vcxproj|D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\Gas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F15C60CB-8381-455E-B893-44C0A8657CD1}|Perfect Gas 2D Simulation.vcxproj|solutionrelative:Gas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15C60CB-8381-455E-B893-44C0A8657CD1}|Perfect Gas 2D Simulation.vcxproj|D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\World.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F15C60CB-8381-455E-B893-44C0A8657CD1}|Perfect Gas 2D Simulation.vcxproj|solutionrelative:World.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15C60CB-8381-455E-B893-44C0A8657CD1}|Perfect Gas 2D Simulation.vcxproj|D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\Body.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F15C60CB-8381-455E-B893-44C0A8657CD1}|Perfect Gas 2D Simulation.vcxproj|solutionrelative:Body.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15C60CB-8381-455E-B893-44C0A8657CD1}|Perfect Gas 2D Simulation.vcxproj|D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\Body.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F15C60CB-8381-455E-B893-44C0A8657CD1}|Perfect Gas 2D Simulation.vcxproj|solutionrelative:Body.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.hpp",
+              "DocumentMoniker": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\main.hpp",
+              "RelativeDocumentMoniker": "main.hpp",
+              "ToolTip": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\main.hpp",
+              "RelativeToolTip": "main.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T20:13:40.698Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwBsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T20:13:10.973Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Body.h",
+              "DocumentMoniker": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\Body.h",
+              "RelativeDocumentMoniker": "Body.h",
+              "ToolTip": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\Body.h",
+              "RelativeToolTip": "Body.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-29T12:01:40.791Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Body.cpp",
+              "DocumentMoniker": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\Body.cpp",
+              "RelativeDocumentMoniker": "Body.cpp",
+              "ToolTip": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\Body.cpp",
+              "RelativeToolTip": "Body.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-29T12:02:09.229Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Physics.h",
+              "DocumentMoniker": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\Physics.h",
+              "RelativeDocumentMoniker": "Physics.h",
+              "ToolTip": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\Physics.h",
+              "RelativeToolTip": "Physics.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-27T11:34:50.485Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Physics.cpp",
+              "DocumentMoniker": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\Physics.cpp",
+              "RelativeDocumentMoniker": "Physics.cpp",
+              "ToolTip": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\Physics.cpp",
+              "RelativeToolTip": "Physics.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-27T11:47:14.754Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "World.h",
+              "DocumentMoniker": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\World.h",
+              "RelativeDocumentMoniker": "World.h",
+              "ToolTip": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\World.h",
+              "RelativeToolTip": "World.h",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T20:14:22.982Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "World.cpp",
+              "DocumentMoniker": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\World.cpp",
+              "RelativeDocumentMoniker": "World.cpp",
+              "ToolTip": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\World.cpp",
+              "RelativeToolTip": "World.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T21:01:03.657Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Gas.h",
+              "DocumentMoniker": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\Gas.h",
+              "RelativeDocumentMoniker": "Gas.h",
+              "ToolTip": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\Gas.h",
+              "RelativeToolTip": "Gas.h",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-18T11:06:26.154Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gas.cpp",
+              "DocumentMoniker": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\Gas.cpp",
+              "RelativeDocumentMoniker": "Gas.cpp",
+              "ToolTip": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\Gas.cpp",
+              "RelativeToolTip": "Gas.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAMkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-18T11:01:37.253Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventArray.h",
+              "DocumentMoniker": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\EventArray.h",
+              "RelativeDocumentMoniker": "EventArray.h",
+              "ToolTip": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\EventArray.h",
+              "RelativeToolTip": "EventArray.h",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-23T14:52:05.383Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventArray.cpp",
+              "DocumentMoniker": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\EventArray.cpp",
+              "RelativeDocumentMoniker": "EventArray.cpp",
+              "ToolTip": "D:\\Programmation\\C-C\u002B\u002B\\Project\\SFML\\Perfect Gas 2D Simulation\\EventArray.cpp",
+              "RelativeToolTip": "EventArray.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-23T14:59:36.518Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: perfectgas-2d-simulation
+created: 2025-08-18T12:55:56+02:00
